@@ -1,0 +1,32 @@
+ /* Custom styles */
+ .recording-item {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+.recording-item h3 {
+    margin-top: 0;
+}
+.recording-item p {
+    margin-bottom: 5px;
+}
+.recording-item{
+    border-radius: 10px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.3);
+}
+body {
+    background-color:white;
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    background-color:skyblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color:black;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.3);
+}
